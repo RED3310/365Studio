@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,cAAc,CAAC;EACX,SAAS,EAAE,MAAM;EACjB,OAAO,EAAE,IAAI;EACb,OAAO,EAAE,cAAc;EACvB,MAAM,EAAE,MAAM;CAUjB;;AAdD,AAMI,cANU,CAMV,YAAY,CAAC;EACT,WAAW,EAAE,mBAAmB;EAChC,UAAU,EAAE,MAAM;EAClB,WAAW,EAAE,IAAI;EACjB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EACjB,KAAK,EAAE,OAAO;CACjB",
+    "sources": [
+        "max-style.scss"
+    ],
+    "names": [],
+    "file": "max-style.css"
+}

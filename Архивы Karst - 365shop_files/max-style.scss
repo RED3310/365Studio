@@ -1,0 +1,15 @@
+.brend-wrapper {
+    max-width: 1540px;
+    display: flex;
+    padding: 25px 30px 75px;
+    margin: 0 auto;
+
+    .brend__name {
+        font-family: FuturaPT,sans-serif;
+        font-style: normal;
+        font-weight: bold;
+        font-size: 80px;
+        line-height: 98px;
+        color: #274F43;
+    } 
+}

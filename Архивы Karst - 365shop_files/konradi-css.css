@@ -1,0 +1,23 @@
+.scroll-bar {
+            height: 250px !important;
+        }
+.mCSB_scrollTools {
+    position: absolute;
+    width: 3px !important;
+    height: auto;
+    left: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: #d6ba9c !important;
+}
+
+.mCS-dark.mCSB_scrollTools .mCSB_draggerRail {
+    background: #274f43 !important;
+    width: 3px !important;
+}
+
+.mCS-dark.mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar {
+    background: #274f43 !important;
+    width: 3px !important;
+}
